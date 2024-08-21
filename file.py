@@ -34,7 +34,7 @@ submit_button.click()
 time.sleep(5)
 
 # Abre a página desejada após a autenticação
-driver.get('https://x.com/search?q=from%3A%40lumalter_%20until%3A2020-12-30&src=typed_query&f=top')
+driver.get('URL_DA_PAGINA')
 
 # Espera a página carregar
 time.sleep(5)
