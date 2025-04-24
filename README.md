@@ -1,4 +1,4 @@
-# TweetDeleter
+# Tweet Deleter
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 
