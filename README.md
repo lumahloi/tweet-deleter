@@ -13,7 +13,14 @@ Script which logs into your Twitter/X account and launches Selenium to delete yo
 pip install -r requirements.txt
 ```
 
-- **Run  the project locally**
+## Usage
+Change the following variables on the code:
+1. **user**: your username;
+2. **password**: your password;
+3. **URL_DA_PAGINA**: your profile's url.
+
+## Run
+- **Run the project locally**
 ```bash
 py file.py
 ```
