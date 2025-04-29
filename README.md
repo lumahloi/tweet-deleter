@@ -2,10 +2,26 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 
-**TweetDeleter** é um script que utiliza Selenium para deletar Tweets no antigo Twitter.
+Script which logs into your Twitter/X account and launches Selenium to delete your tweets. Currently the login credentials need to be updated directly on the code but this will be changed in the future.
 
-## Funcionalidades
-- Alterando diretamente no código suas credenciais do Twitter, rode o script. 
+## Pre-requisites
+- **Python**: check installation at the [official website](https://www.python.org/downloads/)
 
-## Contato
-Caso você tenha alguma dúvida ou feedback, não hesite em entrar em contato! :D <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc6fef0c-9d21-42dd-a18b-9573936309d1/da5palh-65273507-8a15-454d-ae2e-0bbb970f8a16.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjNmZlZjBjLTlkMjEtNDJkZC1hMThiLTk1NzM5MzYzMDlkMVwvZGE1cGFsaC02NTI3MzUwNy04YTE1LTQ1NGQtYWUyZS0wYmJiOTcwZjhhMTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TrXzBGCo6VqptVKxxVoJSuRLqrPXOQgVZdRYwfCyybc"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lumah-pereira/)
+## Installation
+- **Download dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+- **Run  the project locally**
+```bash
+py file.py
+```
+
+## Author
+<img src="https://github.com/lumahloi.png" width="80" align="left"/>
+
+***Lumah Pereira***
+
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lumah-pereira) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/lumahloi) [![Portfolio](https://img.shields.io/badge/Portfolio-D47CBC.svg?logo=vercel&logoColor=white)](https://www.lumah-pereira.vercel.app)
